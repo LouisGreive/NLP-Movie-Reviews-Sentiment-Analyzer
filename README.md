@@ -2,7 +2,7 @@
 
 This project builds and compares three different machine learning models to classify movie reviews as either positive or negative. The entire workflow, from data cleaning to final model evaluation and an interactive demo, is documented in a series of Jupyter Notebooks.
 
-![Sentiment Analyzer Demo](demo.gif)
+![Sentiment Analyzer Demo](GIF_NLP)
 
 ## Project Goal
 The objective of this project was to apply the complete lifecycle of a Natural Language Processing project to a real-world problem. The goal was to develop a high-performance sentiment analysis model, starting with a simple baseline and progressively iterating with more advanced architectures to achieve a high degree of precision and recall.
