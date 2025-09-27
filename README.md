@@ -49,7 +49,11 @@ The main takeaway from the project is that the baseline model, created using TF-
 ## Interactive Demo
 An interactive demo was built using `Gradio` to allow for real-time sentiment analysis of custom text. To run it, execute the final cells in the `4_Transformer_Model_FINAL.ipynb` notebook.
 
-## How to Run
-1.  Clone the repository: `git clone https://github.com/LouisGreive/NLP-Movie-Reviews-Sentiment-Analyzer.git`
-2.  Install all necessary libraries: `pip install -r requirements.txt`
-3.  The notebooks are numbered and are designed to be run in order.
+## How to Run 
+1.  **Clone the repository:** `git clone https://github.com/LouisGreive/NLP-Movie-Reviews-Sentiment-Analyzer.git`
+2.  **Install all necessary libraries:** `pip install -r requirements.txt`
+3.  **Run the notebooks:** The project is documented in two sets of notebooks:
+    * **Development Notebooks (`1_...` to `4_...`):** These notebooks use a 1,000-review sample for fast, iterative development and debugging.
+    * **Final Notebooks (`..._FINAL.ipynb`):** These are the final versions of the models, run on the full 50,000-review dataset to generate the official results.
+
+The notebooks are numbered and should be run in order.
